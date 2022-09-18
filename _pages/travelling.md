@@ -19,7 +19,7 @@ Newport, 2019
      
 Washington Park, 2020
 <img class="fit-picture"
-     src="/images/travel2.JPG"
+     src="/images/travel2.jpeg"
      alt="Washington Park, 2020">
      
 
