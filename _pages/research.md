@@ -6,13 +6,17 @@ author_profile: true
 redirect_from:
   - /research
 ---
-Mapping China’s Influence at Multilateral Institutions
+China's Official Rhetoric and Crisis Escalation
 ------
-![header image](/images/guterres_xjp.jpg)
+![header image](/images/research_header.jpeg)
+
+Does China vary its official rhetoric before crisis escalation? Or is all China's talk cheap? China's recent hawkish diplomacy has re-kindled both the scholarly and policy debate on the intentions of China. I argue that in foreign crises, China's propaganda apparatus systematically inflates the salience of crises for legitimation to different audiences before escalation compared to deescalation. Using an original dictionary for measuring the salience level of foreign crises defined in Chinese official rhetoric, I analyzed more than 10,000 People's Daily news articles published before 30 foreign crises and disputes from 1949 to 2021. I find systematic evidence that the more salient China defines a foreign dispute, the more likely that it will escalate. I complement this analysis with a comparative case study between the Sino-Vietnamese and Sino-Philippine South China Sea disputes. I find that after China defined the dispute with Vietnam as merely a "friction," diplomatic actions were closely followed. In contrast, after China interpreted the dispute with the Philippines as an "invasion," China immediately conducted costly military actions against the Philippines. My research challenges the mainstream materialist view that talk is cheap, and theorizes China's rhetoric as an early warning signal of its strategic actions. It also has clear policy implications -- western policymakers should pay more attention to Chinese rhetoric in managing various ongoing disputes with China amidst growing U.S.-China power competition.
 
 
-With [Courtney Fung](https://www.courtneyfung.com/). Does China exert influence at multilateral institutions?  If so, how?  Analysts note that a rising China is coming to dominate multilateral institutions, pointing to China’s lead of four of the fifteen UN specialized agencies; the frequency of PRC rhetoric injected into international diplomatic discourse; and the linking of signature PRC projects, like the Belt and Road Initiative, to multilateral programs.  As China assumes a greater leadership role in the United Nations system, China has stalled discussions on managing lethal autonomous weapons, muzzled UN Security Council interventions on human rights violations in Syria and used UN bureaucratic procedures to refute criticisms of China’s Xinjiang policies – shaping multilateral politics in China’s favour. Yet, there is no clear conceptualization and operationalization for what ‘influence’ means, nor how ‘influence’ is exerted in a formal multilateral setting.  In order to address these questions, this paper first theorizes an operable definition for influence, disaggregating and mapping five different influence pathways: coercion, bargaining, persuasion, discourse, and agenda-setting. The paper highlights China’s influence as varying over time, intensity, and issue area, relying upon data-scraping, textual analysis and case sketches of China’s four UN specialized agencies' headships.
-- Presented at *[APSA 2020](https://convention2.allacademic.com/one/apsa/apsa20/index.php?cmd=Online+Program+View+Session&selected_session_id=1639303&PHPSESSID=c63f4am07b06i4748aec419dii)*, *ISA 2021*
-- With [Courtney Fung](https://www.courtneyfung.com/). *The Washington Post, Monkey Cage*, ["China already leads 4 of the 15 U.N. specialized agencies — and is aiming for a 5th,"](https://www.washingtonpost.com/politics/2020/03/03/china-already-leads-4-15-un-specialized-agencies-is-aiming-5th/) March 2020
-- Mentioned in *Foreign Policy*, ["China’s Soft-Power Grab,"](https://foreignpolicy.com/2020/08/14/china-soft-power-united-nations-hong-kong-crackdown/) August 2020
-- Related paper: With [Courtney Fung](https://www.courtneyfung.com/). "Staffing the United Nations: China’s motivations and prospects," *International Affairs* 97(4).
+
+
+- Will be, and was presented at *[Harvard Kennedy School USC Asian Security Conference (2022)](https://dornsife.usc.edu/ksi/us-asia-grand-strategy-fellowship/)*, *[UC IGCC Great Power Dynamics Workshop (Summer 2022)](https://ucigcc.org/training/gp-workshop/)*, *[Carter Center-Peking University Seventh Annual Young Scholars Forum on U.S.-China Relations (Fall 2022)](https://meizhong.report/seventh-ysf-2022/)*, *[CATO Institute Junior Scholars Symposium (Fall 2022)](https://www.cato.org/blog/call-proposals-junior-scholars-symposium-2022)*
+
+- Part of the research is featured at *[UC IGCC Political Violence at a Glance Magazine](https://politicalviolenceataglance.org/2022/08/02/nancy-pelosis-potential-visit-to-taiwan-and-the-risk-of-escalation/)*
+
+- Funded by *[Charles Koch Foundation Dissertation Fellowship](https://charleskochfoundation.org/grants/managing-relations-with-china/)*
