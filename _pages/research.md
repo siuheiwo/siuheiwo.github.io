@@ -16,7 +16,7 @@ Does China vary its official rhetoric before crisis escalation? Or is all China'
 
 
 - Will be, and was presented at: 
-  - *[Harvard Kennedy School USC Asian Security Conference (2022)](https://dornsife.usc.edu/ksi/us-asia-grand-strategy-fellowship/)*
+  - *[Harvard Kennedy School USC Asian Security Conference (Spring 2022)](https://dornsife.usc.edu/ksi/us-asia-grand-strategy-fellowship/)*
   - *[UC IGCC Great Power Dynamics Workshop (Summer 2022)](https://ucigcc.org/training/gp-workshop/)*
   - *[Carter Center-Peking University Seventh Annual Young Scholars Forum on U.S.-China Relations (Fall 2022)](https://meizhong.report/seventh-ysf-2022/)*
   - *[CATO Institute Junior Scholars Symposium (Fall 2022)](https://www.cato.org/blog/call-proposals-junior-scholars-symposium-2022)*
