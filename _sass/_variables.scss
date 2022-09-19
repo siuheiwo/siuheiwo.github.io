@@ -53,8 +53,8 @@ $darker-gray                : mix(#000, $gray, 60%);
 $light-gray                 : mix(#fff, $gray, 50%);
 $lighter-gray               : mix(#fff, $gray, 90%);
 
-$body-color                 : rgb(232, 231, 231);
-$background-color           : #77000a;
+$body-color                 : $darker-gray;
+$background-color           : #77000a4e;
 $code-background-color      : #77000a;
 $code-background-color-dark : $light-gray;
 $text-color                 : #fff;
