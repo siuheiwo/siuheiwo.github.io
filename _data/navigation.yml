@@ -2,7 +2,7 @@
 main:
   - title: "Research"
     url: /research/
-  - title: "Travelling"
-    url: /travelling/
   - title: "CV"
     url: /cv/
+  - title: "Travelling"
+    url: /travelling/
