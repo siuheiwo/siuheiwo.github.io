@@ -22,4 +22,4 @@ Does China vary its official rhetoric before crisis escalation? Or is all China'
   - *[CATO Institute Junior Scholars Symposium (Fall 2022)](https://www.cato.org/blog/call-proposals-junior-scholars-symposium-2022)*
 - Part of the research is featured at *[UC IGCC Political Violence at a Glance Magazine](https://politicalviolenceataglance.org/2022/08/02/nancy-pelosis-potential-visit-to-taiwan-and-the-risk-of-escalation/)*
 - Funded by *[Charles Koch Foundation Dissertation Fellowship](https://charleskochfoundation.org/grants/managing-relations-with-china/)*
-- Awarded the*[2022 Jimmy Carter Award for Best Paper on U.S.-China Relations](https://uscnpm.org/2022/10/11/announcing-the-winners-2022-young-scholars-forum-on-us-china-relations/)*
+- Awarded the *[2022 Jimmy Carter Award for Best Paper on U.S.-China Relations](https://uscnpm.org/2022/10/11/announcing-the-winners-2022-young-scholars-forum-on-us-china-relations/)*
