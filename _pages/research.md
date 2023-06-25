@@ -17,7 +17,6 @@ What does China’s rhetoric tell about its intentions in foreign disputes and c
   - Brookings Institution Rhetoric and Asian Security Workshop (Nov 2023)
 - Part of the research is featured at *[UC IGCC Political Violence at a Glance Magazine](https://politicalviolenceataglance.org/2022/08/02/nancy-pelosis-potential-visit-to-taiwan-and-the-risk-of-escalation/)*
 - Awarded the *[2022 Jimmy Carter Award for Best Paper on U.S.-China Relations](https://uscnpm.org/2022/10/11/announcing-the-winners-2022-young-scholars-forum-on-us-china-relations/)*
-
 ---
 Unraveling China's Military Diplomacy: China's Military Engagement and Cooperation with ASEAN Coauthored with *[Zenobia T. Chan](http://www.zenobiachan.com/)* and *[Noel Foster](https://www.noelfoster.com/)*
 ------
