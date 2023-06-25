@@ -14,10 +14,11 @@ What does China’s rhetoric tell about its intentions in foreign disputes and c
 - Will be, and was presented at: 
   - *[Harvard Kennedy School USC Asian Security Conference (Spring 2022)](https://dornsife.usc.edu/ksi/us-asia-grand-strategy-fellowship/)*
   - *[Carter Center-Peking University Seventh Annual Young Scholars Forum on U.S.-China Relations (Fall 2022)](https://meizhong.report/wp-content/uploads/2022/09/seventh-ysf-poster.pdf)*
-- Brookings Institution Rhetoric and Asian Security Workshop (Nov 2023)
+  - Brookings Institution Rhetoric and Asian Security Workshop (Nov 2023)
 - Part of the research is featured at *[UC IGCC Political Violence at a Glance Magazine](https://politicalviolenceataglance.org/2022/08/02/nancy-pelosis-potential-visit-to-taiwan-and-the-risk-of-escalation/)*
 - Awarded the *[2022 Jimmy Carter Award for Best Paper on U.S.-China Relations](https://uscnpm.org/2022/10/11/announcing-the-winners-2022-young-scholars-forum-on-us-china-relations/)*
-![header image](/images/plot_1_taiwan.png)
+
+
 ---
 Unraveling China's Military Diplomacy: China's Military Engagement and Cooperation with ASEAN Coauthored with *[Zenobia T. Chan](http://www.zenobiachan.com/)* and *[Noel Foster](https://www.noelfoster.com/)*
 ------
@@ -26,7 +27,6 @@ Does China's military engagement lead to heightened military cooperation in Sout
  - Will be, and was presented at: 
   - *[ISEAS Seminar on ASEAN Politics (Summer 2023)]([https://dornsife.usc.edu/ksi/us-asia-grand-strategy-fellowship/](https://www.iseas.edu.sg/events/upcoming-events/))*
   - *[Fudan-UC Center on Contemporary China Young Scholar Conference (Fall 2023)](https://china.ucsd.edu/_files/21china_young-scholars-conference_cfp-2023.pdf)*
-![header image](/images/ASEAN.png)
 
 
 
