@@ -16,7 +16,7 @@ redirect_from:
 ---
 "Leader Does Not Speak Lightly": A 70-year Analysis on China’s Official Rhetoric and Costly Actions since 1949 (Under Review)
 ------
-![header image](/plot_1_taiwan.png)
+![header image](/images/plot_1_taiwan.png)
 
 What does China’s rhetoric tell about its intentions in foreign disputes and crises? Existing literature has held either a dismissive view on the credibility of autocracy’s rhetoric or dismissed the role of rhetoric altogether. Challenging the existing canon, I argue that China’s costly behaviors are not unpredictable. Before China conducts costly material actions in foreign disputes and crises, including economic coercion, troop deployments, and military attacks, it inflates the levels of issue salience for legitimation to international audiences. States legitimize their costly material actions because these material actions do not speak for themselves and can be risky to draw balancing coalitions. I test my theoretical predictions through an original Chinese-language lexicon and a dataset that consists of 7,440 \textit{People’s Daily} articles covering 26 China’s foreign disputes and crises since 1949. I find systematic evidence that the more salient China defines a dispute, the more likely and costly it escalates and strikes in both a 30 and 7-day window. A longitudinal case study of the cross-strait relationship from 2010 to 2022 lends further evidence to the statistical results. This study provides a new theoretical perspective that bridges the axiomatic dichotomy between words and deeds. It also has policy implications: Western policymakers should pay more attention to Chinese-language rhetoric to mitigate the risks of unintended conflicts amidst growing U.S-China power competition.
 
