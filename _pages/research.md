@@ -13,7 +13,6 @@ When do states preannounce their negative actions against their enemies? Underst
 
 - Part of the research is featured at *[UC IGCC Political Violence at a Glance Magazine](https://politicalviolenceataglance.org/2022/08/02/nancy-pelosis-potential-visit-to-taiwan-and-the-risk-of-escalation/)*
 - Awarded the *[2022 Jimmy Carter Award for Best Paper on U.S.-China Relations](https://uscnpm.org/2022/10/11/announcing-the-winners-2022-young-scholars-forum-on-us-china-relations/)*
----
 
 *["Who Speaks for the Party? Chinese State Signaling and State Media Hierarchy"](https://drive.google.com/file/d/1RRdBCV87vyw7z34M44J-kLDZ1-ikQzm0/view?usp=sharing)* Coauthored with *[Zenobia T. Chan](http://www.zenobiachan.com/)* and *[Noel Foster](https://www.noelfoster.com/)*
 ------
