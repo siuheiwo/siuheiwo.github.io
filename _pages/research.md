@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /research
 ---
-*["Of Words and Deeds: Preemptive Legitimation, Coercion, and China-Taiwan Relations"](https://drive.google.com/file/d/1pL7xW3RYEsdCV7NUyA0ybRMwRLR-yX5M/preview)* (Under Review)
+*["Of Words and Deeds: Preemptive Legitimation, Coercion, and China-Taiwan Relations"](https://drive.google.com/file/d/1CHHq3SmVPbfJHeacdNy2SUrQDW8UT-Du/preview)* (Under Review)
 ------
 When do states preannounce their negative actions against their enemies? Understanding these motivations is crucial to determining how much information a state can deduce about others' intentions from their rhetoric. I introduce the concept of "preemptive legitimation," where states justify military coercion to third-party states in advance. States use this strategy to manage third-party expectations and minimize the risk of third-party military intervention in bilateral conflicts. Conversely, states have less incentive to justify economic coercion in advance, as it is less likely to trigger counter military coalitions. I test these predictions by analyzing China's coercion against Taiwan from 2016-22. By developing a Chinese-language lexicon over 2 million \textit{People’s Daily} articles, I find that China's portrayal of Taiwan-related threats correlates with its military coercion but not its economic coercion. This study provides a theoretical framework that elucidates the relationship between states' rhetoric and actions.
 
