@@ -1,6 +1,15 @@
 ---
-
-"Forecasting the Use of Force: A Word Embedding Analysis of China’s Rhetoric and Military Escalations"(Revise and Resubmit to Political Science Research and Methods)
+layout: archive
+title: "Book Project"
+permalink: /book_project/
+author_profile: true
+redirect_from:
+  - /book_project.md
+---
+["Of Words and Deeds: Preemptive Legitimation, Material Actions, and China-Taiwan Relations"](First Draft; Expected: Spring 2026)
 ------
+When do states preannounce their negative actions against their enemies? Understanding these motivations is crucial to determining how much information a state can deduce about others’ intentions from their rhetoric. I introduce the concept of ”preemptive legitimation,” where states justify military coercion to third-party states in advance. States use this strategy to manage third-party expectations and minimize the risk of third-party military intervention in bilateral conflicts. Conversely, states have less incentive to justify economic coercion in advance, as it is less likely to trig- ger counter military coalitions. I test these predictions by analyzing China’s coercion against Taiwan from 2016-22. By developing a Chinese-language lexicon over 2 million People’s Daily articles, I find that China’s portrayal of Taiwan-related threats correlates with its military coercion but not its economic coercion. This study provides a theoretical framework that elucidates the relationship between states’ rhetoric and actions. 
 
-Are implicit threats made by autocracies reliable proxies for forecasting military escalations? While the conventional hands-tying mechanism asserts that a state’s official rhetoric binds it to a position, limiting its ability to back down, recent literature on bluster suggests that autocracies may also use hawkish rhetoric to justify inaction and de-escalation ex post. This research evaluates these competing perspectives by analyzing China’s rhetoric and military escalations. Using a word embedding approach, I introduce an original Chinese-language lexicon that captures China’s implicit threats. I present systematic evidence that China’s implicit threats against adversaries correlate with the likelihood of its military escalations. These findings provide new empirical insights into the debate between bluster and hands-tying mechanisms.
+
+- Part of the research is featured at *[UC IGCC Political Violence at a Glance Magazine](https://politicalviolenceataglance.org/2022/08/02/nancy-pelosis-potential-visit-to-taiwan-and-the-risk-of-escalation/)*
+- Awarded the *[2022 Jimmy Carter Award for Best Paper on U.S.-China Relations](https://uscnpm.org/2022/10/11/announcing-the-winners-2022-young-scholars-forum-on-us-china-relations/)*
