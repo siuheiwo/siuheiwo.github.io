@@ -7,19 +7,10 @@ redirect_from:
   - /research
 ---
 
-"Forecasting the Use of Force: A Word Embedding Analysis of China’s Rhetoric and Military Escalations"(Revise and Resubmit to Political Science Research and Methods)
+["Forecasting the Use of Force: A Word Embedding Analysis of China’s Rhetoric and Military Escalations"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4809057) (Condictional Acceptence to Political Science Research and Methods)}
 ------
+Is an autocracy’s official rhetoric a reliable proxy to forecast its military escalations? While the conventional hands-tying mechanism asserts that a state’s official rhetoric binds it to a position, reducing its ability to back down, recent literature on bluster suggests that autocracies may also use hawkish rhetoric to justify inaction and deescalation ex post. This research evaluates these competing perspectives by analyzing China’s rhetoric and military escalations in the Taiwan Strait from 2016 to 2022. Through a word embedding approach, I introduce an original Chinese-language lexicon that captures China’s implicit threats based on over two million People’s Daily articles. I present systematic evidence that China’s implicit threats against Taiwan correlate with the likelihood of its military escalations. These findings offer new empirical insights to address the debate between bluster and hands-tying mechanisms.
 
-Are implicit threats made by autocracies reliable proxies for forecasting military escalations? While the conventional hands-tying mechanism asserts that a state’s official rhetoric binds it to a position, limiting its ability to back down, recent literature on bluster suggests that autocracies may also use hawkish rhetoric to justify inaction and de-escalation ex post. This research evaluates these competing perspectives by analyzing China’s rhetoric and military escalations. Using a word embedding approach, I introduce an original Chinese-language lexicon that captures China’s implicit threats. I present systematic evidence that China’s implicit threats against adversaries correlate with the likelihood of its military escalations. These findings provide new empirical insights into the debate between bluster and hands-tying mechanisms.
-
-
-*["Of Words and Deeds: Preemptive Legitimation, Material Actions, and China-Taiwan Relations"](https://drive.google.com/file/d/1ldk2a9YWzhnMBGJX5-nwgzddyQAM-peb/preview)* 
-------
-When do states preannounce their negative actions against their enemies? Understanding these motivations is crucial to determining how much information a state can deduce about others’ intentions from their rhetoric. I introduce the concept of ”preemptive legitimation,” where states justify military coercion to third-party states in advance. States use this strategy to manage third-party expectations and minimize the risk of third-party military intervention in bilateral conflicts. Conversely, states have less incentive to justify economic coercion in advance, as it is less likely to trig- ger counter military coalitions. I test these predictions by analyzing China’s coercion against Taiwan from 2016-22. By developing a Chinese-language lexicon over 2 million People’s Daily articles, I find that China’s portrayal of Taiwan-related threats correlates with its military coercion but not its economic coercion. This study provides a theoretical framework that elucidates the relationship between states’ rhetoric and actions. 
-
-
-- Part of the research is featured at *[UC IGCC Political Violence at a Glance Magazine](https://politicalviolenceataglance.org/2022/08/02/nancy-pelosis-potential-visit-to-taiwan-and-the-risk-of-escalation/)*
-- Awarded the *[2022 Jimmy Carter Award for Best Paper on U.S.-China Relations](https://uscnpm.org/2022/10/11/announcing-the-winners-2022-young-scholars-forum-on-us-china-relations/)*
 
 *["Tying-Hands Versus Bluster: Authoritativeness, Words, and Deeds in Crisis Communication"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4970055)* Coauthored with *[Zenobia T. Chan](http://www.zenobiachan.com/)* and *[Noel Foster](https://www.noelfoster.com/)*
 ------
