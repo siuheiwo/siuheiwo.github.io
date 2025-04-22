@@ -1,6 +1,8 @@
 # main links links
 main:
-  - title: "Research"
+  - title: "Book Project"
+    url: /book_proect/  
+  - title: "Publication and Working Papers"
     url: /research/
   - title: "CV"
     url: /cv/
