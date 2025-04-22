@@ -2,7 +2,7 @@
 main:
   - title: "Book Project"
     url: /book_project/  
-  - title: "Publication and Working Papers"
+  - title: "Publications and Working Papers"
     url: /research/
   - title: "CV"
     url: /cv/
