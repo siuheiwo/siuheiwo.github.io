@@ -7,7 +7,7 @@ redirect_from:
   - /research
 ---
 
-["Forecasting the Use of Force: A Word Embedding Analysis of China’s Rhetoric and Military Escalations"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4809057) (Condictional Acceptence to *Political Science Research and Methods*)
+<u>Jackie S.H. Wong</u>, ["Forecasting the Use of Force: A Word Embedding Analysis of China’s Rhetoric and Military Escalations"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4809057) (Condictional Acceptence to *Political Science Research and Methods*)
 ------
 Is an autocracy’s official rhetoric a reliable proxy to forecast its military escalations? While the conventional hands-tying mechanism asserts that a state’s official rhetoric binds it to a position, reducing its ability to back down, recent literature on bluster suggests that autocracies may also use hawkish rhetoric to justify inaction and deescalation ex post. This research evaluates these competing perspectives by analyzing China’s rhetoric and military escalations in the Taiwan Strait from 2016 to 2022. Through a word embedding approach, I introduce an original Chinese-language lexicon that captures China’s implicit threats based on over two million [People’s Daily] articles. I present systematic evidence that China’s implicit threats against Taiwan correlate with the likelihood of its military escalations. These findings offer new empirical insights to address the debate between bluster and hands-tying mechanisms.
 
