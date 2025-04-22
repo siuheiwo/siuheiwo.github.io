@@ -1,18 +1,19 @@
 # Authors
 
 Name Name:
-  name        : "Jackie Wong"
-  uri         : "http://name.com"
-  email       : "wongshei [at] umich.edu"
-  bio         : "Postdoctoral Fellow at the Department of Politics of Princeton University"
-  avatar      : "bio-photo-2.jpg"
-  twitter     : "@SiuHeiWong2"
-  google scholar : "https://scholar.google.com/citations?user=-n-WykwAAAAJ&hl=zh-TW"
+  name           : "Jackie Wong"
+  uri            : "http://name.com"
+  email_display  : "wongshei [at] umich.edu"
+  email_link     : "wongshei@umich.edu"
+  bio            : "Postdoctoral Fellow at the Department of Politics of Princeton University"
+  avatar         : "bio-photo-2.jpg"
+  twitter        : "@SiuHeiWong2"
+  google_scholar : "https://scholar.google.com/citations?user=-n-WykwAAAAJ&hl=zh-TW"
 
-Name2 Name2:
-  name        : "Name2 Name2"
-  email       : "name2@name2.com"
-  bio         : "I ordered what?"
-  avatar      : "bio-photo.jpg"
-  twitter     : "name2"
-  google_plus : "Name"
+name2_name2:
+  name          : "Name2 Name2"
+  email_display : "name2 [at] name2.com"
+  email_link    : "name2@name2.com"
+  bio           : "I ordered what?"
+  avatar        : "bio-photo.jpg"
+  twitter       : "@name2"
