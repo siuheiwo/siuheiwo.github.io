@@ -17,5 +17,5 @@ redirect_from:
   </p>
 </div>
 
-- Part of the research is featured at *[UC IGCC Political Violence at a Glance Magazine](https://politicalviolenceataglance.org/2022/08/02/nancy-pelosis-potential-visit-to-taiwan-and-the-risk-of-escalation/)*
+- Part of the research is featured at *[UC IGCC Political Violence at a Glance Magazine](https://ucigcc.org/blog/will-nancy-pelosis-visit-to-taiwan-trigger-a-crisis/)*
 - Awarded the *[2022 Jimmy Carter Award for Best Paper on U.S.-China Relations](https://chinafocus.azurewebsites.net/2022/10/04/announcing-the-winners-2022-young-scholars-forum-on-us-china-relations/)*
