@@ -12,3 +12,7 @@ What types of strategic actions are predictable from a state’s official rhetor
 
 - Part of the research is featured at *[UC IGCC Political Violence at a Glance Magazine](https://politicalviolenceataglance.org/2022/08/02/nancy-pelosis-potential-visit-to-taiwan-and-the-risk-of-escalation/)*
 - Awarded the *[2022 Jimmy Carter Award for Best Paper on U.S.-China Relations](https://uscnpm.org/2022/10/11/announcing-the-winners-2022-young-scholars-forum-on-us-china-relations/)*
+
+<img class="fit-picture"
+     src="/images/thumbnail_IMG_9548.jpg"
+     alt="Taipei 101, 2023">
