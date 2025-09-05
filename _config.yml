@@ -61,7 +61,7 @@ social:
   name                   : "Jackie S.H. Wong"
   links:
     - "https://twitter.com/SiuHeiWong2"
-    - "https://scholar.google.com/citations?user=-n-WykwAAAAJ&hl=zh-TW"
+    - "https://scholar.google.com/citations?user=KchozygAAAAJ&hl=zh-TW"
 
 # Analytics
 analytics:
@@ -73,12 +73,12 @@ analytics:
 author:
   name             : "Jackie S.H. Wong"
   avatar           : "pro_pic.jpg"
-  bio              : "Postdoctoral Research Associate at Princeton University"
-  location         : "New Jersey via Hong Kong"
+  bio              : "Assistant Professor at AU Sharjah"
+  location         : "UAE via Hong Kong"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=-n-WykwAAAAJ&hl=zh-TW"
-  email            : "wongshei@umich.edu"
+  googlescholar    : ""
+  email            : "siuwong@aus.edu"
   twitter          : "SiuHeiWong2"
   github           : 
   google_plus      :
