@@ -36,7 +36,7 @@ WORKING PAPERS
 ------
 
 
-"Unraveling China's Military Diplomacy: China's Military Engagement and Cooperation with ASEAN" Coauthored with *[Zenobia T. Chan](http://www.zenobiachan.com/)* and *[Noel Foster](https://www.noelfoster.com/)*
+*["Unraveling China's Military Diplomacy: Mapping China's Military Engagement"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5403728) Coauthored with *[Zenobia T. Chan](http://www.zenobiachan.com/)* and *[Noel Foster](https://www.noelfoster.com/)*
 ------
 
 
