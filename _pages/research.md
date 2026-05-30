@@ -21,6 +21,9 @@ David C. Kang, <u>Jackie S.H. Wong</u>, Zenobia T. Chan, (2025) ["What China Doe
 ------
 
 - Featured in *[United Daily News](https://udn.com/news/story/6809/9016056).*
+------
+WORKING PAPERS
+
 
 *["Tying-Hands Versus Bluster: Authoritativeness, Words, and Deeds in Crisis Communication"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4970055)* Coauthored with *[Zenobia T. Chan](http://www.zenobiachan.com/)* and *[Noel Foster](https://www.noelfoster.com/)*
 ------
