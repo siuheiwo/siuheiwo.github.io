@@ -28,6 +28,8 @@ David C. Kang, <u>Jackie S.H. Wong</u>, Zenobia T. Chan, (2025) ["What China Doe
 
 WORKING PAPERS
 ------
+
+
 *["Moving Out of Crisis: Third-Country Diplomacy and China's Crisis Management"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6647859)* Coauthored with *[Zenobia T. Chan](http://www.zenobiachan.com/)*, *[Noel Foster](https://www.noelfoster.com/), and [Shinghon Lam](https://shinghon.github.io/)*
 ------
 
@@ -36,7 +38,7 @@ WORKING PAPERS
 ------
 
 
-*["Unraveling China's Military Diplomacy: Mapping China's Military Engagement"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5403728) Coauthored with *[Zenobia T. Chan](http://www.zenobiachan.com/)* and *[Noel Foster](https://www.noelfoster.com/)*
+*["Unraveling China's Military Diplomacy: Mapping China's Military Engagement"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5403728)* Coauthored with *[Zenobia T. Chan](http://www.zenobiachan.com/)* and *[Noel Foster](https://www.noelfoster.com/)*
 ------
 
 
