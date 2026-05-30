@@ -4,6 +4,8 @@ main:
     url: /book_project/  
   - title: "Publications and Working Papers"
     url: /research/
+  - title: "Teaching"
+    url: /teaching/
   - title: "CV"
     url: /cv/
   - title: "Travelling"
