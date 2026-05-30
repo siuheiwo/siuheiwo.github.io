@@ -10,5 +10,5 @@ location: "Sharjah, United Arab Emirates"
 
 Taught Spring 2026.
 
-- [Syllabus](https://drive.google.com/file/d/1HzpvdTgFsc9JHXQee7CZFA3CaVHkv6Cy/view?usp=drive_link)
+- [Syllabus](https://drive.google.com/file/d/1Vb48914DeoZBrv8ZO5TTVrG4lcrw2hQm/view?usp=drive_link)
 - [Teaching Evaluation](https://drive.google.com/file/d/1FZ4fLECXIV3IgOtPV-_PiUkdTae6fnvA/view?usp=sharing)
