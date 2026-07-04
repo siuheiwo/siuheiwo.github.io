@@ -7,7 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am an Assistant Professor at the [Department of International Studies at the American University of Sharjah](https://www.aus.edu/cas/department-of-international-studies) in the UAE. My research focuses on the intersection between Computational Social Science and International Security, with a regional focus on Asia.  My book project explores the strategic relationship between China's official rhetoric and crisis response. I received my Ph.D. in Political Science and International Relations from the University of Southern California in August 2024.
+I am an Assistant Professor at the [Department of International Studies at the American University of Sharjah](https://www.aus.edu/faculty/jackie-siu-hei-wong) in the UAE. In 2026–2027, I am also an inaugural fellow in the AI Academic Upskilling Program for Social Scientists at the [Oxford Martin AI Governance Initiative, University of Oxford](https://aigi.ox.ac.uk/news/call-for-applications-ai-academic-upskilling-program-for-social-scientists/), and a visiting fellow at the [Australian Centre on China in the World at Australian National University](https://ciw.anu.edu.au/visiting-fellows).
+
+My research focuses on the intersection between Computational Social Science and International Security, with a regional focus on Asia.  My book project explores the strategic relationship between China's official rhetoric and crisis response. I received my Ph.D. in Political Science and International Relations from the University of Southern California in August 2024.
 
 My research has appeared in peer-reviewed journals including [*International Security*](https://direct.mit.edu/isec/article/50/1/46/132729/What-Does-China-Want) and [*Political Science and Research Methods*](https://doi.org/10.1017/psrm.2025.10085), as well as policy journals such as [*Foreign Affairs*](https://www.foreignaffairs.com/china/what-china-doesnt-want) and [*East Asia Forum*](https://eastasiaforum.org/2026/01/10/chinas-ambitions-are-narrower-than-washington-thinks/). 
 
