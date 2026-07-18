@@ -5,7 +5,7 @@ locale                   : "en-US"
 title                    : "Jackie S.H. Wong"
 title_separator          : "-"
 name                     : &name "Jackie S.H. Wong"
-description              : &description "Assistant Professor of International Studies at the American University of Sharjah. Research on Chinese foreign policy, international security, and computational social science."
+description              : &description "Assistant Professor of International Studies at the American University of Sharjah. Research on NLP, LLMs, Chinese foreign policy, international security, and computational social science."
 url                      : https://siuheiwo.github.io
 baseurl                  : ""
 repository               : "siuheiwo/siuheiwo.github.io"
@@ -74,7 +74,7 @@ author:
   name             : "Jackie S.H. Wong"
   avatar           : "pro_pic.jpg"
   bio              : "Assistant Professor at AU Sharjah"
-  location         : "UAE via Hong Kong"
+  location         : "UAE"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=KchozygAAAAJ&hl=en"
