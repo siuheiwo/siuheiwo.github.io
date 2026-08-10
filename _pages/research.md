@@ -28,6 +28,10 @@ David C. Kang, <u>Jackie S.H. Wong</u>, Zenobia T. Chan, (2025) ["What Does Chin
 ------ 
 - Featured in *[CNN](https://x.com/BeckyCNN/status/1962909523737457012)*, *[Sinica](https://www.sinicapodcast.com/p/what-does-china-want-the-authors)*, and *[Quincy Institute for Responsible Statecraft's Webinar](https://quincyinst.org/events/what-does-china-want/).*
 
+
+NON PEER-REVIEWED WRITINGS
+------
+
 David C. Kang, <u>Jackie S.H. Wong</u>, Zenobia T. Chan, (2025) ["What China Does Not Want"](https://www.foreignaffairs.com/china/what-china-doesnt-want) *Foreign Affairs*
 ------
 - Featured in *[United Daily News](https://udn.com/news/story/6809/9016056).*
