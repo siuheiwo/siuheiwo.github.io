@@ -19,6 +19,10 @@ Noel Foster, Zenobia T. Chan, and <u>Jackie S.H. Wong</u>, (2026) ["Diplomats in
 - Quoted in the *[South China Morning Post](https://www.scmp.com/news/china/military/article/3230733/chinas-increase-military-exercises-helps-aid-diplomacy-efforts)*
 - Featured as a policy talk at *[ISEAS–Yusof Ishak Institute](https://www.iseas.edu.sg/mec-events/mapping-chinas-military-visitsimplications-for-u-s-china-security-competition-in-southeast-asia/)*
 
+David C. Kang, <u>Jackie S.H. Wong</u>, Zenobia T. Chan, (2026) "Correspondence: The Challenges of Asking “What China Wants”
+" *International Security*
+------ 
+- Supplementary data and replication files: [here](https://drive.google.com/drive/folders/1NXJF2AZZEZswnJf8pT_kMWrZXy-hggXz?usp=drive_link) 
 
 David C. Kang, <u>Jackie S.H. Wong</u>, Zenobia T. Chan, (2025) ["What Does China Want"](https://doi.org/10.1162/ISEC.a.5) *International Security*
 ------ 
