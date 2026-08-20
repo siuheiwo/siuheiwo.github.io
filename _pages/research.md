@@ -20,9 +20,10 @@ Noel Foster, Zenobia T. Chan, and <u>Jackie S.H. Wong</u>, (2026) ["Diplomats in
 - Featured as a policy talk at *[ISEAS–Yusof Ishak Institute](https://www.iseas.edu.sg/mec-events/mapping-chinas-military-visitsimplications-for-u-s-china-security-competition-in-southeast-asia/)*
 
 
-David C. Kang, <u>Jackie S.H. Wong</u>, Zenobia T. Chan, (2026) "Correspondence: The Challenges of Asking 'What China Wants'" *International Security*
+David C. Kang, <u>Jackie S.H. Wong</u>, Zenobia T. Chan, (2026) ["Correspondence: The Challenges of Asking 'What China Wants'"](https://doi.org/10.1162/ISEC.c.418) *International Security*
 ------ 
-- Supplementary data and replication files: [here](https://drive.google.com/drive/folders/1du2Xex60OfvDPYXooK0KMUefJaqr2mAy?usp=drive_link) 
+- Supplementary data and replication files: [here](https://drive.google.com/drive/folders/1du2Xex60OfvDPYXooK0KMUefJaqr2mAy?usp=drive_link)
+- Ungated version: [here](https://https://drive.google.com/file/d/1USvNhPRuXKxFcJn0Hbr_Z3HSIn5VuHIH/view?usp=sharing)
 
 David C. Kang, <u>Jackie S.H. Wong</u>, Zenobia T. Chan, (2025) ["What Does China Want"](https://doi.org/10.1162/ISEC.a.5) *International Security*
 ------ 
